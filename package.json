@@ -1,0 +1,11 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "description": "my first chat app",
+  "dependencies": {
+    "busboy": "^0.2.9",
+    "express": "^4.10.2",
+    "socket.io": "^1.3.5",
+    "sticky-session": "^0.1.0"
+  }
+}
